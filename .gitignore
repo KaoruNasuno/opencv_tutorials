@@ -8,6 +8,8 @@ img/
 
 # C extensions
 *.so
+*.swp
+*.swo
 
 # Distribution / packaging
 .Python
