@@ -5,6 +5,7 @@ __pycache__/
 *.mp4
 movie/
 img/
+.DS_Store
 
 # C extensions
 *.so
